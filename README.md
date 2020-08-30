@@ -1,4 +1,4 @@
-<div><p style="color:Aquamarine;font-size:30px;">Bhavana Goud</p></div>
+<div><p style="color:#7FFFD4;font-size:30px;">Bhavana Goud</p></div>
 
 Here are some ideas to get you started:
 
