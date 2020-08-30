@@ -1,4 +1,4 @@
-<h3 style="color:Aquamarine">Bhavana Goud</h3>
+<p style="color:Aquamarine;font-size:30px;">Bhavana Goud</p>
 
 <!--
 **Bhavana22-cmd/Bhavana22-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
