@@ -1,8 +1,5 @@
 <div><p style="color:Aquamarine;font-size:30px;">Bhavana Goud</p></div>
 
-<!--
-**Bhavana22-cmd/Bhavana22-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... competitive coding
